@@ -1,4 +1,4 @@
-# list manipulation - dictionary
+# List Manipulation - Dictionary
 DATA = {
     "CACHE" : "a small, high-speed storage area used to store frequently accessed data for quicker retrieval" ,
     "BYTE" : "a unit of digital information, typically consisting of 8 bits" ,
